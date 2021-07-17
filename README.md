@@ -1,14 +1,13 @@
-# GoGoDag - Travel App
+# Flyppy Mosquit
    
-## It was decided to rewrite this application to flutter
+## A game about a mosquito in the FLAPPY BIRD format
 
 ### Functions:
-+ Travel
-+ Animations
-+ Purchase of tours
-+ Tours to unpopular places
-+ Beautiful power-on screen
-+ You will learn about all the features of the application in the flutter version of the program
++ Pop-up windows
++ Time in the game
++ PBest time in the game
++ There is an opportunity to start again
+  HELP THE MOSQUITO TO SURVIVE
 
   
 ## 
