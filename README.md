@@ -1,7 +1,7 @@
 # Flyppy Mosquit
    
-## A game about a mosquito in the FLAPPY BIRD format
-HELP THE MOSQUITO TO SURVIVE
+## A game about a mosquito in the FLAPPY BIRD format \n HELP THE MOSQUITO TO SURVIVE
+
 
 ### Functions:
 + Pop-up windows
